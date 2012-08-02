@@ -1,0 +1,4 @@
+DRIVER#org.apache.derby.jdbc.EmbeddedDriver
+DATABASE#jdbc:derby:c:\\Users\\SONY\\sumanta
+LOGIN TABLE#users
+MESSAGE TABLE#comments
